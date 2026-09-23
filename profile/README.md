@@ -1,6 +1,6 @@
 # Association Math.R
 
-A Swiss non-profit association (Monthey, VS) publishing open specifications for
+A Swiss association (Verein) based in Monthey (VS) publishing open specifications for
 **bounded human authorisation in agent systems**: where software may prepare,
 recommend and pre-check, but a named person accepts responsibility before an
 irreversible action takes effect.
